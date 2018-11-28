@@ -1,3 +1,3 @@
 <?php
-echo 'Hello world 2 !!';
+echo 'This changes is in master !!';
 ?>
